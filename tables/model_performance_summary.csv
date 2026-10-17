@@ -1,0 +1,4 @@
+Model Type,Best Settings,Test RMSE (d^-1),Test R^2
+Linear Regression,Baseline,0.19070144791635762,0.09166002820895347
+Polynomial Regression,Degree = 2,0.15702649852210587,0.38413384482393276
+kNN Regression,"k = 8, distance",0.15721416148302433,0.38266091726690765
